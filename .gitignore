@@ -3,7 +3,6 @@
 web-ext-artifacts
 .vscode
 Gemfile*
-package-lock.json
 manifest_chrome.json
 docs/run.sh
 pyj/node_modules/
